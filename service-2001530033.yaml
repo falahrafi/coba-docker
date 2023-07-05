@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: service-nimanda
+  name: service-2001530033
 spec:
   selector:
     app: nimanda-app
